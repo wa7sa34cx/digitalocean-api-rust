@@ -1,3 +1,5 @@
+mod digitalocean;
+
 fn main() {
     dotenv::dotenv().ok();
 
